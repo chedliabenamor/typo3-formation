@@ -2,6 +2,6 @@
 
 
 
-some desc youhou 
+typo3 v11 demo project 
 
 
